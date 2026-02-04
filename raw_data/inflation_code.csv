@@ -1,0 +1,345 @@
+,class,group,digits,desc_bm,desc_en,division,subclass
+0,-,-,1,Semua item,All items,overall,-
+1,-,-,2,Makanan & Minuman,Food & Beverages,01,-
+2,-,001,3,Makanan di luar rumah,Food away from home,01,-
+3,0011,001,4,Makanan di luar rumah,Food away from home,01,-
+4,0011,001,5,Makanan di luar rumah,Food away from home,01,00111
+5,-,011,3,Makanan di rumah,Food at home,01,-
+6,0111,011,4,Bijirin & produk bijirin,Cereals & cereal products,01,-
+7,0111,011,5,Bijirin,Cereals,01,01111
+8,0111,011,5,Tepung bijirin,Flour of cereals,01,01112
+9,0111,011,5,Roti & produk bakeri,Bread & bakery products,01,01113
+10,0111,011,5,Bijirin sarapan,Breakfast cereals,01,01114
+11,0111,011,5,"Makaroni, mi & produk pasta","Macaroni, noodles & pasta products",01,01115
+12,0112,011,4,Daging,Meat,01,-
+13,0112,011,5,"Daging segar, disejukkan atau beku","Meat, fresh, chilled or frozen",01,01122
+14,0112,011,5,"Organ dalaman segar, disejukkan atau beku","Offal fresh, chilled or frozen",01,01124
+15,0112,011,5,Makanan tersedia dari daging dan organ dalaman,Food preparation from meat and offal,01,01125
+16,0113,011,4,Ikan & makanan laut lain,Fish & other seafood,01,-
+17,0113,011,5,"Ikan hidup, segar, sejuk & beku","Fish, live, fresh, chilled or frozen",01,01131
+18,0113,011,5,Ikan yang dikeringkan dan diasinkan,"Fish, dried and salted",01,01132
+19,0113,011,5,Makanan tersedia dari ikan,Fish preparations,01,01133
+20,0113,011,5,"Makanan laut lain hidup, segar, sejuk atau beku","Other seafood, live, fresh, chilled or frozen",01,01134
+21,0113,011,5,"Makanan laut lain yang dikeringkan, diasinkan","Other seafood, dried, salted, in brine or smoked",01,01135
+22,0113,011,5,Makanan tersedia dari makanan laut lain,Other seafood preparations,01,01136
+23,0114,011,4,"Susu, produk tenusu lain & telur","Milk, other dairy products & eggs",01,-
+24,0114,011,5,Susu asli & susu yang dibancuh,Raw & whole milk,01,01141
+25,0114,011,5,Lain-lain susu & krim,Other milk & cream,01,01143
+26,0114,011,5,Susu bukan daripada sumber haiwan,Non-animal milk,01,01144
+27,0114,011,5,Keju,Cheese,01,01145
+28,0114,011,5,Yogurt & produk seumpamanya,Yoghurt & similar products,01,01146
+29,0114,011,5,Telur,Eggs,01,01148
+30,0115,011,4,Minyak & lemak,Oils & fats,01,-
+31,0115,011,5,Minyak sayuran,Vegetable oils,01,01151
+32,0115,011,5,Mentega & lemak & minyak lain yang dihasilkan daripada susu,Butter & other fats & oils derived from milk,01,01152
+33,0115,011,5,Marjerin & produk seumpamanya,Margarine & similar preparations,01,01153
+34,0116,011,4,Buah-buahan & kacang,Fruits & nuts,01,-
+35,0116,011,5,"Kurma, buah tin & buah-buahan tropika, segar","Dates, figs & tropical fruits, fresh",01,01161
+36,0116,011,5,Buah-buahan sitrus,"Citrus fruits, fresh",01,01162
+37,0116,011,5,Buah-buahan stone & pome,"Stone fruits & pome fruits, fresh",01,01163
+38,0116,011,5,Buah-buahan segar lain,"Other fruits, fresh",01,01165
+39,0116,011,5,Kacang dengan kulit atau telah dikupas,"Nuts, in shell or shelled",01,01168
+40,0116,011,5,Makanan tersedia dari buah-buahan & kacang,Fruit & nuts ground & other preparations,01,01169
+41,0117,011,4,Sayur-sayuran,Vegetables,01,-
+42,0117,011,5,"Sayur-sayuran berdaun atau berbatang, segar atau disejukkan","Leafy or stem vegetables, fresh or chilled",01,01171
+43,0117,011,5,"Sayur-sayuran berbuah, segar atau disejukkan","Fruit-bearing vegetables, fresh or chilled",01,01172
+44,0117,011,5,"Sayur-sayuran kekacang hijau, segar atau disejukkan","Green leguminous vegetables, fresh or chilled",01,01173
+45,0117,011,5,"Sayur-sayuran lain, segar atau disejukkan","Other vegetables, fresh or chilled",01,01174
+46,0117,011,5,"Ubi, plantain & pisang sayuran","Tubers, plantains & cooking bananas",01,01175
+47,0117,011,5,"Makanan tersedia dari sayur-sayuran, ubi, plantain, pisang sayuran & kekacang","Vegetables, tubers, plantains, cooking bananas & pulses ground & other preparations",01,01179
+48,0118,011,4,"Gula, manisan & pencuci mulut","Sugar, confectionery & desserts",01,-
+49,0118,011,5,Gula tebu & gula bit,Cane & beet sugar,01,01181
+50,0118,011,5,Lain-lain gula & pengganti gula,Other sugar & sugar substitutes,01,01182
+51,0118,011,5,Jem dan madu,Jams and honey,01,01183
+52,0118,011,5,Mentega kacang,Nut butter,01,01184
+53,0118,011,5,"Coklat, koko & produk makanan berasaskan koko","Chocolate, cocoa, & cocoa-based food products",01,01185
+54,0118,011,5,"Ais, aiskrim & sorbet","Ice, ice cream & sorbet",01,01186
+55,0118,011,5,Lain-lain manisan gula & pencuci mulut t.t.t.l.,Other sugar confectionery & desserts n.e.c.,01,01189
+56,0119,011,4,Makanan sedia dimakan & produk makanan lain t.t.t.l.,Ready-made food & other food products n.e.c.,01,-
+57,0119,011,5,Makanan yang sedia dimakan,Ready-made food,01,01191
+58,0119,011,5,Makanan bayi,Baby food,01,01192
+59,0119,011,5,"Garam, bahan perasa & sos","Salt, condiments & sauces",01,01193
+60,0119,011,5,Rempah ratus,Spices,01,01194
+61,0119,011,5,Produk makanan lain t.t.t.l.,Other food products n.e.c.,01,01199
+62,-,012,3,Minuman bukan alkohol,Non-alcoholic beverages,01,-
+63,0121,012,4,Jus buah-buahan & sayur-sayuran,Fruit & vegetable juices,01,-
+64,0121,012,5,Jus buah-buahan & sayur-sayuran,Fruit & vegetable juices,01,01210
+65,0122,012,4,Kopi & pengganti kopi,Coffee & coffee substitutes,01,-
+66,0122,012,5,Kopi & pengganti kopi,Coffee & coffee substitutes,01,01220
+67,0123,012,4,Teh,Tea,01,-
+68,0123,012,5,"Teh, mate' & produk tumbuhan lain untuk seduhan","Tea, maté & other plant products for infusion",01,01230
+69,0124,012,4,Minuman koko,Cocoa drinks,01,-
+70,0124,012,5,Minuman koko,Cocoa drinks,01,01240
+71,0125,012,4,Air,Water,01,-
+72,0125,012,5,Air,Water,01,01250
+73,0126,012,4,Minuman ringan,Soft drinks,01,-
+74,0126,012,5,Minuman ringan,Soft drinks,01,01260
+75,0129,012,4,Minuman tidak beralkohol lain,Other non-alcoholic beverages,01,-
+76,0129,012,5,Minuman tidak beralkohol lain,Other non-alcoholic beverages,01,01290
+77,-,-,2,Minuman Alkohol & Tembakau,Alcoholic Beverages & Tobacco,02,-
+78,-,021,3,Minuman keras/alkohol,Alcoholic beverages,02,-
+79,0211,021,4,Arak & minuman keras,Spirits & liquors,02,-
+80,0211,021,5,Arak & minuman keras,Spirits & liquors,02,02110
+81,0212,021,4,Wain,Wine,02,-
+82,0212,021,5,Wain daripada anggur,Wine from grapes,02,02121
+83,0213,021,4,Bir,Beer,02,-
+84,0213,021,5,Bir,Beer,02,02130
+85,-,023,3,Tembakau,Tobacco,02,-
+86,0230,023,4,Tembakau,Tobacco,02,-
+87,0230,023,5,Rokok,Cigarettes,02,02301
+88,-,-,2,Pakaian & Kasut,Clothing & Footwear,03,-
+89,-,031,3,Pakaian,Clothes,03,-
+90,0312,031,4,Pakaian,Garments,03,-
+91,0312,031,5,Pakaian lelaki & kanak-kanak lelaki,Garments for men or boys,03,03121
+92,0312,031,5,Pakaian wanita & kanak-kanak perempuan,Garments for women or girls,03,03122
+93,0312,031,5,Pakaian bayi (di bawah umur 2 tahun),Garments for infants (under 2 years old),03,03123
+94,0312,031,5,Pakaian seragam sekolah,School uniforms,03,03124
+95,0312,031,5,Pakaian uniseks,Garments for unisex,03,03125
+96,0313,031,4,Lain-lain jenis pakaian & aksesori pakaian,Other articles of clothing & clothing accessories,03,-
+97,0313,031,5,Lain-lain jenis pakaian,Other articles of clothing,03,03131
+98,0314,031,4,"Pencucian, pembaikan, menjahit & sewa pakaian","Cleaning, repair, tailoring & hire of clothing",03,-
+99,0314,031,5,Pencucian pakaian,Cleaning of clothing,03,03141
+100,0314,031,5,"Pembaikan, menjahit & sewaan pakaian","Repair, tailoring & hire of clothing",03,03142
+101,-,032,3,Kasut,Shoes,03,-
+102,0321,032,4,Kasut & lain-lain jenis alas kaki,Shoes & other footwear,03,-
+103,0321,032,5,Kasut lelaki,Footwear for men,03,03211
+104,0321,032,5,Kasut perempuan,Footwear for women,03,03212
+105,0321,032,5,Kasut bayi & kanak-kanak,Footwear for infants & children,03,03213
+106,0321,032,5,Kasut uniseks,Footwear for unisex,03,03214
+107,-,-,2,"Perumahan, Air, Elektrik, Gas & Bahan Api Lain","Housing, Water, Electricity, Gas & Other Fuels",04,-
+108,-,041,3,Sewa sebenar untuk kediaman,Actual rentals for housing,04,-
+109,0411,041,4,Sewa sebenar yang dibayar oleh penyewa,Actual rentals paid by tenants for main residence,04,-
+110,0411,041,5,Sewa sebenar yang dibayar oleh penyewa,Actual rentals paid by tenants,04,04110
+111,-,043,3,"Penyelenggaran, pembaikan & keselamatan rumah kediaman","Maintenance, repair & security of the dwelling",04,-
+112,0431,043,4,Kelengkapan keselamatan & bahan-bahan untuk pembaikan & penyelenggaraan rumah kediaman,Security equipment & materials for the maintenance & repair of the dwelling,04,-
+113,0431,043,5,Bahan-bahan untuk pembaikan & penyelenggaraan rumah kediaman,Materials for the maintenance repair of the dwelling,04,04311
+114,0432,043,4,"Bayaran perkhidmatan penyelenggaraan, pembaikan & keselamatan rumah kediaman","Services for the maintenance, repair & security of the dwelling",04,-
+115,0432,043,5,"Bayaran perkhidmatan penyelenggaraan, pembaikan & keselamatan rumah kediaman","Services for the maintenance, repair & security of the dwelling",04,04320
+116,-,044,3,Bekalan air & pelbagai perkhidmatan berkaitan dengan rumah kediaman,Water supply & miscellaneous services relating to the dwelling,04,-
+117,0441,044,4,Bekalan air,Water supply,04,-
+118,0441,044,5,Bekalan air melalui sistem rangkaian,Water supply through network systems,04,04411
+119,0443,044,4,Pembetungan,Sewage collection,04,-
+120,0443,044,5,Pembetungan bersistem,Sewage collection through sewer systems,04,04431
+121,0444,044,4,Perkhidmatan lain berkaitan rumah kediaman t.t.t.l.,Other services relating to the dwelling n.e.c.,04,-
+122,0444,044,5,Caj penyelenggaraan untuk rumah bertingkat,Maintenance charges in multi-occupied buildings,04,04441
+123,-,045,3,"Elektrik, gas & bahan api","Electricity, gas & fuel",04,-
+124,0451,045,4,Bekalan elektrik,Electricity,04,-
+125,0451,045,5,Bekalan elektrik daripada semua sumber,Electricity from all sources,04,04510
+126,0452,045,4,Gas,Gas,04,-
+127,0452,045,5,Gas,Gas,04,04522
+128,-,-,2,"Hiasan, Perkakasan & Penyelenggaraan Isi Rumah","Furnishings, Household Equipment & Routine Household Maintenance",05,-
+129,-,051,3,"Perabot, kelengkapan & permaidani","Furniture, furnishings & loose carpets",05,-
+130,0511,051,4,"Perabot, kelengkapan & permaidani","Furniture, furnishings & loose carpets",05,-
+131,0511,051,5,Perabot isi rumah,Household furniture,05,05111
+132,0511,051,5,Kelengkapan lampu,Lighting equipment,05,05113
+133,0511,051,5,"Permaidani, tikar & hiasan","Furnishings, carpets & rugs",05,05114
+134,-,052,3,Tekstil isi rumah,Household textiles,05,-
+135,0521,052,4,Tekstil isi rumah,Household textiles,05,-
+136,0521,052,5,Fabrik kelengkapan & langsir,Furnishing fabrics & curtains,05,05211
+137,0521,052,5,Linen katil & kelengkapan tidur,Bed linen & bedding,05,05212
+138,0521,052,5,Alas meja & bilik air,Table linen & bathroom linen,05,05213
+139,-,053,3,Perkakas isi rumah,Household appliances,05,-
+140,0531,053,4,Perkakasan utama isi rumah sama ada elektrik atau bukan elektrik,"Major household appliances, whether electric or not",05,-
+141,0531,053,5,Perkakasan utama dapur,Major kitchen appliances,05,05311
+142,0531,053,5,Perkakasan mencuci utama,Major laundry appliances,05,05312
+143,0531,053,5,Pemanas & penghawa dingin,"Heaters, air conditioners",05,05313
+144,0531,053,5,Perkakasan pembersihan,Cleaning equipment,05,05314
+145,0531,053,5,Lain-lain perkakasan utama isi rumah,Other major household appliances,05,05319
+146,0532,053,4,Kelengkapan elektrik kecil isi rumah,Small household appliances,05,-
+147,0532,053,5,Perkakasan elektrik kecil untuk memasak & memproses makanan,Small appliances for cooking & processing of food,05,05321
+148,0532,053,5,Perkakasan elektrik kecil isi rumah yang lain,Other small household appliances,05,05329
+149,0533,053,4,"Pembaikan, pemasangan & sewa perkakas isi rumah","Repair, installation & hire of household appliances",05,-
+150,0533,053,5,"Pembaikan, pemasangan & sewa perkakas isi rumah","Repair, installation & hire of household appliances",05,05330
+151,-,054,3,"Barang kaca, pinggan mangkuk & peralatan dapur isi rumah","Glassware, tableware & household utensils",05,-
+152,0540,054,4,"Barang kaca, pinggan mangkuk & peralatan dapur isi rumah","Glassware, tableware & household utensils",05,-
+153,0540,054,5,Barang kaca & barang seramik,Glassware & ceramic ware,05,05401
+154,0540,054,5,Peralatan & barang keperluan dapur,Kitchen utensils & articles,05,05403
+155,-,055,3,Alat pertukangan & peralatan untuk rumah & kebun,Tools & equipment for house & garden,05,-
+156,0551,055,4,Alat-alat & peralatan bermotor,Motorized tools & equipment,05,-
+157,0551,055,5,Alat-alat & peralatan bermotor,Motorised tools & equipment,05,05510
+158,0552,055,4,Alat-alat tidak bermotor & pelbagai aksesori,Non-motorized tools & miscellaneous accessories,05,-
+159,0552,055,5,Pelbagai aksesori,Miscellaneous accessories,05,05522
+160,-,056,3,Barangan & perkhidmatan penyelenggaran isi rumah,Goods & services for routine household maintenance,05,-
+161,0561,056,4,Barang-barang isi rumah tidak tahan lama,Non-durable household goods,05,-
+162,0561,056,5,Produk pencuci & penyelenggaraan,Household cleaning & maintenance products,05,05611
+163,0561,056,5,Barang-barang isi rumah tidak tahan lama lain,Other non-durable household goods,05,05619
+164,0562,056,4,Perkhidmatan domestik & perkhidmatan isi rumah,Domestic services & household services,05,-
+165,0562,056,5,Perkhidmatan domestik oleh kakitangan yang dibayar,Domestic services by paid staff,05,05621
+166,-,-,2,Kesihatan,Health,06,-
+167,-,061,3,Ubat-ubatan & produk kesihatan,Medicines & health products,06,-
+168,0611,061,4,Ubat-ubatan,Medicines,06,-
+169,0611,061,5,"Ubat-ubatan, vaksin & produk farmaseutikal lain","Medicines, vaccines & other pharmaceutical products",06,06111
+170,0611,061,5,Ubat-ubatan herba & produk homeopati,Herbal medicines & homeopathic products,06,06112
+171,0611,061,5,Supplemen kesihatan,Health supplements,06,06113
+172,0612,061,4,Produk perubatan,Medical products,06,-
+173,0612,061,5,Produk diagnostik perubatan,Medical diagnostic products,06,06121
+174,0612,061,5,Alat pencegahan & pelindung,Prevention & protective devices,06,06122
+175,0612,061,5,Peralatan rawatan untuk kegunaan peribadi,Treatment devices for personal use,06,06123
+176,0613,061,4,Alat bantu,Assistive products,06,-
+177,0613,061,5,Alat bantu untuk penglihatan,Assistive products for vision,06,06131
+178,0613,061,5,Alat bantu untuk mobiliti & kehidupan seharian,Assistive products for mobility & daily living,06,06133
+179,-,062,3,Perkhidmatan penjagaan pesakit luar,Outpatient care services,06,-
+180,0622,062,4,Perkhidmatan pergigian pesakit luar,Outpatient dental services,06,-
+181,0622,062,5,Perkhidmatan pergigian pesakit luar yang lain,Other outpatient dental services,06,06229
+182,0623,062,4,Perkhidmatan rawatan pesakit luar yang lain (tidak termasuk perkhidmatan pergigian),Other outpatient care services (excluding preventive & dental),06,-
+183,0623,062,5,Perkhidmatan kuratif & pemulihan pesakit luar (tidak termasuk perkhidmatan pergigian),Outpatient curative & rehabilitative services (excluding dental services),06,06231
+184,-,063,3,Perkhidmatan penjagaan pesakit dalam hospital,Inpatient care services,06,-
+185,0631,063,4,Perkhidmatan kuratif & pemulihan pesakit dalam,Inpatient curative & rehabilitative services,06,-
+186,0631,063,5,Perkhidmatan kuratif & pemulihan pesakit dalam,Inpatient curative & rehabilitative services,06,06310
+187,0632,063,4,Perkhidmatan rawatan jangka panjang pesakit dalam,Inpatient long term care services,06,-
+188,0632,063,5,Perkhidmatan rawatan jangka panjang pesakit dalam,Inpatient long term care services,06,06320
+189,-,064,3,Perkhidmatan kesihatan lain,Others health services,06,-
+190,0641,064,4,Perkhidmatan pengimejan diagnostik & perkhidmatan makmal perubatan,Diagnostic imaging services & medical laboratory services,06,-
+191,0641,064,5,Perkhidmatan pengimejan diagnostik & perkhidmatan makmal perubatan,Diagnostic imaging services & medical laboratory services,06,06410
+192,-,-,2,Pengangkutan,Transport,07,-
+193,-,071,3,Pembelian kenderaan,Purchase of vehicles,07,-
+194,0711,071,4,Kereta,Motor cars,07,-
+195,0711,071,5,Kereta,Cars,07,07111
+196,0711,071,5,Kereta terpakai,Second hand cars,07,07112
+197,0712,071,4,Motosikal,Motorcycles,07,-
+198,0712,071,5,Motosikal,Motorcycles,07,07120
+199,0713,071,4,Basikal,Bicycles,07,-
+200,0713,071,5,Basikal,Bicycles,07,07130
+201,-,072,3,Pengurusan peralatan pengangkutan persendirian,Operation of personal transport equipment,07,-
+202,0721,072,4,Alat ganti & aksesori untuk kelengkapan pengangkutan persendirian,Parts & accessories for personal transport equipment,07,-
+203,0721,072,5,Tayar,Tyre,07,07211
+204,0721,072,5,Alat ganti untuk kelengkapan pengangkutan persendirian,Parts for personal transport equipment,07,07212
+205,0721,072,5,Aksesori untuk kelengkapan pengangkutan persendirian,Accessories for personal transport equipment,07,07213
+206,0722,072,4,Bahan api & pelincir untuk kelengkapan pengangkutan persendirian,Fuels & lubricants for personal transport equipment,07,-
+207,0722,072,5,Diesel,Diesel,07,07221
+208,0722,072,5,Petrol,Petrol,07,07222
+209,0722,072,5,Pelincir,Lubricants,07,07224
+210,0723,072,4,Penyelenggaraan & pembaikan kelengkapan kenderaan persendirian,Maintenance & repair of personal transport equipment,07,-
+211,0723,072,5,Penyelenggaraan & pembaikan kelengkapan kenderaan persendirian,Maintenance & repair of personal transport equipment,07,07230
+212,0724,072,4,Perkhidmatan lain berkenaan kelengkapan pengangkutan persendirian,Other services in respect of personal transport equipment,07,-
+213,0724,072,5,Perkhidmatan parking,Services for parking,07,07241
+214,0724,072,5,Fasiliti tol,Toll facilities,07,07242
+215,0724,072,5,Kelas memandu & lesen,Driving lessons & licences,07,07243
+216,-,073,3,Perkhidmatan pengangkutan awam,Passenger transport services,07,-
+217,0731,073,4,Pengangkutan penumpang menggunakan laluan rel,Passenger transport by railway,07,-
+218,0731,073,5,Pengangkutan penumpang menggunakan kereta api,Passenger transport by train,07,07311
+219,0732,073,4,Pengangkutan penumpang menggunakan jalan raya,Passenger transport by road,07,-
+220,0732,073,5,Pengangkutan penumpang menggunakan bas & koc,Passenger transport by bus & coach,07,07321
+221,0732,073,5,Pengangkutan penumpang bagi pelajar pergi & balik sekolah,Passenger transport for students to & from school,07,07323
+222,0732,073,5,Pengangkutan penumpang lain menggunakan jalan raya,Other passenger transport by road,07,07329
+223,0733,073,4,Pengangkutan penumpang melalui udara,Passenger transport by air,07,-
+224,0733,073,5,"Pengangkutan penumpang melalui udara, domestik","Passenger transport by air, domestic",07,07331
+225,0733,073,5,"Pengangkutan penumpang melalui udara, antarabangsa","Passenger transport by air, international",07,07332
+226,0734,073,4,Pengangkutan penumpang melalui laut & air,Passenger transport by sea & inland waterway,07,-
+227,0734,073,5,Pengangkutan penumpang melalui laut & air,Passenger transport by sea & inland waterway,07,07340
+228,-,074,3,Perkhidmatan pengangkutan barangan,Transport services of goods,07,-
+229,0749,074,4,Pengangkutan barang-barang lain,Other transport of goods,07,-
+230,0749,074,5,Penghantaran barangan,Delivery of goods,07,07492
+231,-,-,2,Maklumat & Komunikasi,Information & Communication,08,-
+232,-,081,3,Peralatan maklumat & komunikasi,Information & communication equipment,08,-
+233,0812,081,4,Peralatan telefon bimbit,Mobile telephone equipment,08,-
+234,0812,081,5,Peralatan telefon bimbit,Mobile telephone equipment,08,08120
+235,0813,081,4,Peralatan pemprosesan maklumat,Information processing equipment,08,-
+236,0813,081,5,"Komputer, komputer riba & tablet","Computers, laptops & tablets",08,08131
+237,0814,081,4,"Peralatan untuk penerimaan, rakaman & penghasilan suara & penglihatan","Equipment for the reception, recording & reproduction of sound & vision",08,-
+238,0814,081,5,"Peralatan untuk penerimaan, rakaman & penghasilan suara & penglihatan","Equipment for the reception, recording & reproduction of sound & vision",08,08140
+239,0819,081,4,Peralatan & aksesori maklumat & komunikasi lain,Other information & communication equipment & accessories,08,-
+240,0819,081,5,Peralatan maklumat & komunikasi lain,Other information & communication equipment,08,08191
+241,-,083,3,Perkhidmatan maklumat & komunikasi,Information & communication services,08,-
+242,0832,083,4,Perkhidmatan komunikasi mudah alih,Mobile communication services,08,-
+243,0832,083,5,Perkhidmatan komunikasi mudah alih,Mobile communication services,08,08320
+244,0833,083,4,Perkhidmatan penyediaan akses internet,Internet access provision services & net storage services,08,-
+245,0833,083,5,Perkhidmatan penyediaan akses internet,Internet access provision services,08,08330
+246,0834,083,4,Pakej perkhidmatan telekomunikasi,Bundled telecommunication services,08,-
+247,0834,083,5,Pakej perkhidmatan telekomunikasi,Telecommunication services packages,08,08340
+248,0839,083,4,Perkhidmatan maklumat & komunikasi lain,Other information & communication services,08,-
+249,0839,083,5,"Langganan kandungan audio-visual, perkhidmatan streaming & penyewaan kandungan audio-visual","Subscription to audio-visual content, streaming services & rentals of audio-visual content",08,08392
+250,-,-,2,"Rekreasi, Sukan & Kebudayaan","Recreation, Sport & Culture",09,-
+251,-,092,3,Barangan rekreasi lain,Other recreational goods,09,-
+252,0921,092,4,"Permainan, mainan & hobi","Games, toys & hobbies",09,-
+253,0921,092,5,Kelengkapan untuk bersukan,Equipment for sport,09,09211
+254,0921,092,5,"Lain-lain permainan, mainan & hobi","Other games, toys & hobbies",09,09212
+255,0922,092,4,"Kelengkapan untuk bersukan, perkhemahan & rekreasi terbuka","Equipment for sport, camping & open-air recreation",09,-
+256,0922,092,5,Kelengkapan untuk bersukan,Equipment for sport,09,09221
+257,-,093,3,Produk kebun & binatang peliharaan,Garden products & pets,09,-
+258,0931,093,4,"Produk kebun, tanaman & bunga","Garden products, plants & flowers",09,-
+259,0931,093,5,Produk kebun,Garden products,09,09311
+260,0931,093,5,"Tanaman, benih & bunga","Plants, seeds & flowers",09,09312
+261,0932,093,4,Binatang peliharaan & produk untuk binatang peliharaan,Pets & products for pets,09,-
+262,0932,093,5,Pembelian binatang peliharaan,Purchase of pets,09,09321
+263,0932,093,5,Produk untuk binatang peliharaan & binatang isi rumah yang lain,Products for pets & other household animals,09,09322
+264,-,094,3,Perkhidmatan rekreasi,Recreational services,09,-
+265,0945,094,4,Veterinar & lain-lain perkhidmatan untuk binatang peliharaan,Veterinary & other services for pets,09,-
+266,0945,094,5,Veterinar & lain-lain perkhidmatan untuk binatang peliharaan,Veterinary & other services for pets,09,09450
+267,0946,094,4,Perkhidmatan rekreasi & sukan,Recreational & sporting services,09,-
+268,0946,094,5,Perkhidmatan rekreasi & riadah,Recreational & leisure services,09,09461
+269,0946,094,5,Perkhidmatan sukan - latihan,Sporting services - practice,09,09462
+270,0946,094,5,Perkhidmatan sukan - kehadiran,Sporting services - attendance,09,09463
+271,-,095,3,Barangan kebudayaan,Cultural goods,09,-
+272,0951,095,4,Alat muzik,Musical instruments,09,-
+273,0951,095,5,Alat muzik,Musical instruments,09,09510
+274,-,096,3,Perkhidmatan kebudayaan,Cultural services,09,-
+275,0961,096,4,Perkhidmatan yang disediakan oleh panggung wayang,"Services provided by cinemas, theatres & concert venues",09,-
+276,0961,096,5,Perkhidmatan yang disediakan oleh panggung wayang,Services provided by cinemas,09,09610
+277,0962,096,4,Perkhidmatan yang disediakan oleh muzium,"Services provided by museums, libraries, & cultural sites",09,-
+278,0962,096,5,Perkhidmatan yang disediakan oleh muzium,Services provided by museums,09,09620
+279,-,097,3,"Surat khabar, buku & alat tulis","Newpapers, books & stationery",09,-
+280,0971,097,4,Buku,Books,09,-
+281,0971,097,5,Buku pendidikan & buku teks,Educational & text books,09,09711
+282,0972,097,4,Surat khabar & bacaan berkala,Newspapers & periodicals,09,-
+283,0972,097,5,Surat khabar,Newspapers,09,09721
+284,0974,097,4,Alat tulis & bahan lukisan,Stationery & drawing materials,09,-
+285,0974,097,5,Alat tulis & bahan lukisan,Stationery & drawing materials,09,09740
+286,-,098,3,Pakej percutian,Package holidays,09,-
+287,0980,098,4,Pakej percutian,Package holidays,09,-
+288,0980,098,5,Pakej percutian,Package holidays,09,09800
+289,-,-,2,Pendidikan,Education,10,-
+290,-,101,3,Pendidikan peringkat pra sekolah & sekolah rendah,Pre primary & primary education,10,-
+291,1010,101,4,Pendidikan peringkat pra sekolah & sekolah rendah,Pre primary & primary education,10,-
+292,1010,101,5,Pendidikan pra sekolah,Pre primary education,10,10101
+293,1010,101,5,Pendidikan sekolah rendah,Primary education,10,10102
+294,-,102,3,Pendidikan peringkat menengah,Secondary education,10,-
+295,1020,102,4,Pendidikan peringkat menengah,Secondary education,10,-
+296,1020,102,5,Pendidikan peringkat menengah,Secondary education,10,10200
+297,-,103,3,Pendidikan peringkat lepasan menengah bukan tertiari,Post-secondary non-tertiary education,10,-
+298,1030,103,4,Pendidikan peringkat lepasan menengah bukan tertiari,Post-secondary non-tertiary education,10,-
+299,1030,103,5,Pendidikan peringkat lepasan menengah bukan tertiari,Post-secondary non-tertiary education,10,10300
+300,-,104,3,Pendidikan peringkat diploma & ke atas,Tertiary education,10,-
+301,1040,104,4,Pendidikan peringkat diploma & ke atas,Tertiary education,10,-
+302,1040,104,5,Pendidikan peringkat diploma & ke atas,Tertiary education,10,10400
+303,-,105,3,Pendidikan yang tidak dikelaskan mengikut peringkat,Education not defined by level,10,-
+304,1050,105,4,Pendidikan yang tidak dikelaskan mengikut peringkat,"Education not defined by level
+",10,-
+305,1050,105,5,Pendidikan lain yang tidak dikelaskan mengikut peringkat,Other education not defined by level,10,10502
+306,-,-,2,Restoran & Perkhidmatan Penginapan,Restaurant & Accommodation Services,11,-
+307,-,111,3,Perkhidmatan penyediaan minuman,Food & beverage preparation services,11,-
+308,1111,111,4,"Restoran, kafe & seumpamanya","Restaurants, cafés & the like",11,-
+309,1111,111,5,"Restoran, kafe & seumpamanya","Restaurants, cafés & the like",11,11111
+310,-,112,3,Perkhidmatan penginapan,Accommodation services,11,-
+311,1120,112,4,Perkhidmatan penginapan,Accommodation services,11,-
+312,1120,112,5,Hotel,Hotels,11,11201
+313,1120,112,5,Pusat percutian & perkhidmatan penginapan seumpanya,Holiday centres & similar accommodation services,11,11202
+314,-,122,3,Perkhidmatan Kewangan,Financial Services,12,-
+315,-,-,2,Insurans & Perkhidmatan Kewangan,Insurance & Financial Services,12,-
+316,-,121,3,Insurans,Insurance,12,-
+317,1212,121,4,Insurans berkaitan dengan kesihatan,Insurance connected with health,12,-
+318,1212,121,5,Insurans berkaitan dengan kesihatan,Insurance connected with health,12,12120
+319,1214,121,4,Insurans berkaitan dengan pengangkutan,Insurance connected with transport,12,-
+320,1214,121,5,Insurans pengangkutan persendirian,Personal transport insurance,12,12141
+321,1222,122,4,Caj eksplisit oleh syarikat pengambilan deposit,Explicit charges by deposit-taking corporations,12,-
+322,1222,122,5,Caj eksplisit oleh syarikat pengambilan deposit,Explicit charges by deposit-taking corporations,12,12220
+323,-,-,2,"Penjagaan Diri, Perlindungan Sosial & Pelbagai Barangan & Perkhidmatan","Personal Care, Social Protection & Miscellaneous Goods & Services",13,-
+324,-,131,3,Penjagaan diri,Personal care,13,-
+325,1312,131,4,"Lain-lain perkakas, artikel & produk untuk penjagaan diri","Other appliances, articles & products for personal care",13,-
+326,1312,131,5,"Lain-lain perkakas, artikel & produk untuk penjagaan diri","Other appliances, articles & products for personal care",13,13120
+327,1313,131,4,Salon dandanan rambut & pusat dandanan peribadi,Hairdressing salons & personal grooming establishments,13,-
+328,1313,131,5,Mendandan rambut,Hairdressing,13,13131
+329,1313,131,5,Rawatan dandanan peribadi,Personal grooming treatments,13,13132
+330,-,132,3,Barangan peribadi lain,Other personal item,13,-
+331,1321,132,4,Barang kemas & jam tangan,Jewellery & watches,13,-
+332,1321,132,5,Barang kemas & jam tangan,Jewellery & watches,13,13211
+333,1322,132,4,Artikel pemujaan & artikel untuk perayaan keagamaan & ritual,Devotional articles & articles for religious & ritual celebrations,13,-
+334,1322,132,5,Artikel pemujaan & artikel untuk perayaan keagamaan & ritual,Devotional articles & articles for religious & ritual celebrations,13,13220
+335,1329,132,4,Barang peribadi lain t.t.t.l.,Other personal effects n.e.c,13,-
+336,1329,132,5,Barang peribadi lain t.t.t.l.,Other personal effects n.e.c,13,13291
+337,-,133,3,Perlidungan sosial,Social protection,13,-
+338,1330,133,4,Perlidungan sosial,Social protection,13,-
+339,1330,133,5,Perkhidmatan penjagaan kanak-kanak,Child care services,13,13301
+340,-,139,3,Lain-lain perkhidmatan,Other services,13,-
+341,1390,139,4,Lain-lain perkhidmatan,Other services,13,-
+342,1390,139,5,Lain-lain perkhidmatan t.t.t.l.,Other services n.e.c,13,13909
