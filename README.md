@@ -14,12 +14,13 @@ Financial institutions and fintech platforms often react to consumer stress only
 Deliver a production-ready Consumer Financial Pressure Early Warning System (CFPI-EWS) that provides timely, interpretable signals to support proactive risk, pricing, and retention decisions.
 
 4. Benefits
-For financial institutions & fintechs
-	•	Earlier risk detection before behavioral changes appear
-	•	Better timing of credit tightening and incentive strategies
-	•	Reduced reliance on lagging internal indicators
 
-5. For consumers
-	•	More responsible credit exposure management
-	•	Reduced aggressive marketing during high-stress periods
-	•	Improved financial system stability
+For financial institutions & fintechs:
+- Earlier risk detection before behavioral changes appear
+- Better timing of credit tightening and incentive strategies
+- Reduced reliance on lagging internal indicators
+
+For consumers:
+- More responsible credit exposure management
+- Reduced aggressive marketing during high-stress periods
+- Improved financial system stability
