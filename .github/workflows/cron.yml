@@ -1,0 +1,35 @@
+name: Run main.py automatically
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 9AM Malaysia (UTC+8)
+  workflow_dispatch:
+
+jobs:
+  run-main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run main.py
+        run: |
+          python src/main.py
+
+      - name: Commit updated CSV
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/*.csv
+          git commit -m "Auto update CSV from cron" || echo "No changes"
+          git push

@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://cfpi-api.onrender.com";
 
 const stateSelect = document.getElementById("stateSelect");
 
@@ -19,7 +19,6 @@ fetch(`${API_URL}/historical/states`)
     }
   });
 
-
   //Load dashboard data for a state
 stateSelect.addEventListener("change", () => {
   loadDashboard(stateSelect.value);
@@ -38,7 +37,6 @@ function loadDashboard(state) {
       renderChart(data.historical);
     });
 }
-
 
 //Forecast panel (ML output)
 function renderForecast(forecast) {
