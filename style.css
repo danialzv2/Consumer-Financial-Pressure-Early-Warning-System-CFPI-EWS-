@@ -7,11 +7,27 @@ h1 {
   margin-bottom: 20px;
 }
 
-.card {
-  margin: 20px 0;
-  padding: 40px;
-  border-radius: 8px;
-  background: #f5f5f5;
+.forecast-header {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.forecast-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.forecast-left,
+.forecast-right {
+  padding: 10px 20px;
+}
+
+
+.forecast-right {
+  border-left: 1px solid #ddd;
 }
 
 .green {
