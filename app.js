@@ -77,7 +77,7 @@ function renderForecast(forecast, context) {
     <div class="forecast-grid">
     
       <div class="forecast-left">
-        <h3>Early Warning Signal</h3>
+        <h3>Early Warning Signal (Forecasting)</h3>
         <p><strong>Direction:</strong> ${direction}</p>
         <p><strong>Probability CFPI ↑ next month:</strong> ${prob}%</p>
         <p><strong>Risk Flag:</strong> ${context?.risk_flag ?? "N/A"}</p>
