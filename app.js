@@ -1,4 +1,4 @@
-const API_URL = "https://cfpi-api.onrender.com/";
+const API_URL = "https://cfpi-api.onrender.com";
 
 const stateSelect = document.getElementById("stateSelect");
 
