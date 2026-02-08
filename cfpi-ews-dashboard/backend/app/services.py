@@ -16,13 +16,7 @@ def get_all_states():
 def get_historical_timeseries(state_name: str):
     
     df = hist_df[hist_df["state"] == state_name].sort_values("date")
-
-    # # Convert Timestamp -> string
-    # df["date"] = df["date"].dt.strftime("%Y-%m-%d")
-
-    # Convert NaN -> None
     df = df.replace({np.nan: None})
-
     return df.to_dict(orient="records")
 
 def get_latest_forecast_by_state(state_name: str):
